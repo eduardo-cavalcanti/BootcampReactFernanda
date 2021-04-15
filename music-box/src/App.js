@@ -1,9 +1,9 @@
+import React from 'react';
+import Routes from './routes';
+
 function App() {
   return (
-    <p>
-      Olá mundo! Agora é nois no Reacto! \o/ <br />
-      Level up!
-    </p>
+      <Routes />
   );
 }
 export default App;
